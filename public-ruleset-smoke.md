@@ -1,0 +1,1 @@
+Public ruleset smoke test.
